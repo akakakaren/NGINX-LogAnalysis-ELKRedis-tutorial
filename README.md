@@ -40,7 +40,7 @@ The architecture of ELKR
 ### Installation
 #### Check System Environment
 
-Before installing ELK(R)，you should first check the system environment. We can use the following command:
+Before installing ELK(R)，you should first check the system environment. Open Xfce terminal in our virtual environment and use the following command:
 
 ```bash
 cat /etc/issue
