@@ -259,7 +259,7 @@ sudo service elasticsearch status
 sudo service logstash status
 sudo service kibana status
 ```
-In the next experiment, we are going to build ELK, as well as make log transfer to Elasticsearch through Logstash.
+In the [next experiment](https://labex.io/courses/4), we are going to build ELK, as well as make log transfer to Elasticsearch through Logstash.
 
 ## Reference
 
@@ -267,4 +267,4 @@ In the next experiment, we are going to build ELK, as well as make log transfer 
 2. [Logstash Setup](https://www.elastic.co/guide/en/logstash/current/installing-logstash.html)
 3. [Kibana Setup](https://www.elastic.co/guide/en/kibana/current/setup.html)
 
-
+Also learn other tutorials [here](https://labex.io), same platform.
