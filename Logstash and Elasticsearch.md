@@ -1,12 +1,12 @@
-# Build Nginx Log Analysis Sytem Based on ELKR - Logstash and Elasticsearch
+# Logstash and Elasticsearch
 
 ## Introduction
 
 ### Description
 
-In this expirement, we will configure Logstash. Specifically we will configure the input and output endpoint of Logstash because Logstash works as a pipe. Logstash receives log from input endpoint, converts the log format and finally outputs to Elasticsearch. The actual work of log analysis will be done in Elasticsearch.
+In [this expirement](https://labex.io/courses/4), we will configure Logstash. Specifically we will configure the input and output endpoint of Logstash because Logstash works as a pipe. Logstash receives log from input endpoint, converts the log format and finally outputs to Elasticsearch. The actual work of log analysis will be done in Elasticsearch.
 
-###What You Will Learn
+### What You Will Learn
 
 - Basic configuration of Logstash
 - How to start Logstash
@@ -183,7 +183,7 @@ nohup /opt/logstash/bin/logstash -t -f /etc/logstash/conf.d/logstash-shipper.con
 
 ## Summary
 
-In this experiment we learned Logstash configuration, enabling it to read access log data from Nginx log file and send the data processed to Elasticsearch. Note that major configurations of Logstash include `input`, `filter` and `output` section.
+In [this experiment](https://labex.io/courses/4) we learned Logstash configuration, enabling it to read access log data from Nginx log file and send the data processed to Elasticsearch. Note that major configurations of Logstash include `input`, `filter` and `output` section.
 
 ## Reference
 
