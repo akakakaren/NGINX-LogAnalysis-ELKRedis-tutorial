@@ -1,6 +1,8 @@
 
 # Build Distributed ELK with Redis
 
+This is the last lab of this tutorial. Make sure you [practice](https://labex.io/courses/4) in your local computer or the [virtual environment](https://labex.io/courses/4) provided. 
+
 ## Introduction
 
 ### Description
