@@ -1,0 +1,5 @@
+This course will teach you how to build ELKR which is a complete set of Nginx Log Analysis tool. There are 4 labs in total and they are designed in a sequential order from easy to difficult. 
+Installation
+Logstash and Elasticsearch
+Data visualization based on Kibana
+Build distributed ELK with Redis
