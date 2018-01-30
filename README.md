@@ -5,7 +5,7 @@ how to build ELKR, a complete set of Nginx log analysis tool
 * ### Data visualization based on Kibana
 * ### Build distributed ELK with Redis
 
-This project tutorial is located on [LabEx](https://labex.io/courses/4), and you can also use the virtual environment to practice this tutorial, which is highly recommended. Should be very helpful. 
+This project tutorial is located on [LabEx](https://labex.io/courses/4), and you can also use the [virtual environment](https://labex.io/courses/4) to practice this tutorial, which is highly recommended. Should be very helpful. 
 
 ## Lab 1 - Installation
 ## Introduction
@@ -176,7 +176,7 @@ Start Logstash service：
 sudo service logstash start
 ```
 
-Same with Elasticsearch Lostash. The starting process may fail because of LabEx's lab environment limit. We will fix the problem in the next Lab.
+Same with Elasticsearch Lostash. The starting process may fail because of LabEx's lab environment limit. We will fix this problem in the next Lab.
 
 ![](/upload/C/E/K/rniiRf86ANti.jpg)
 
@@ -267,4 +267,4 @@ In the [next experiment](https://labex.io/courses/4), we are going to build ELK,
 2. [Logstash Setup](https://www.elastic.co/guide/en/logstash/current/installing-logstash.html)
 3. [Kibana Setup](https://www.elastic.co/guide/en/kibana/current/setup.html)
 
-Also learn other tutorials [here](https://labex.io), same platform.
+Also learn other tutorials [here](https://labex.io/courses), same platform.
