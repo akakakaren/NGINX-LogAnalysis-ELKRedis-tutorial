@@ -1,5 +1,5 @@
 
-#Data Visualization Based on Kibana
+# Data Visualization Based on Kibana
 
 ## Introduction
 
@@ -109,7 +109,7 @@ After you entered search pattern and clicked the search icon, you will see the r
 
 ##Summary
 
-In this lab, we experiment with the visualization function of Kibana and get a glimpse of the Lucene query syntax needed in Elasticsearch. We will establish a distributed ELK stack based on Redis in the next lesson.
+In [this lab](https://labex.io/courses/4), we experiment with the visualization function of Kibana and get a glimpse of the Lucene query syntax needed in Elasticsearch. We will establish a distributed ELK stack based on Redis in the [next lesson](https://labex.io/courses/4).
 
 #### Further Reference for Reading
 
